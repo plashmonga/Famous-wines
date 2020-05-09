@@ -1,5 +1,5 @@
 # Famous wines
-Dashboard to visualize Famous wines in US states by
+Dashboard to visualize Famous wines and wineries in US states by
 * Popularity
 * Price
 
